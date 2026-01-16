@@ -1,0 +1,17 @@
+{
+    "makefile.configurations": [
+      {
+          "name": "build_main_appl",
+          "makeArgs": ["-j16"],
+          "problemMatcher": [
+            "$gcc"
+          ]
+      }
+    ],
+    "makefile.makeDirectory": "MAIN_APPL",
+    "makefile.makefilePath": "MAIN_APPL/makefile",
+    "makefile.compileCommandsPath": "MAIN_APPL/compile_commands.json",
+    "files.associations": {
+      "compare": "c"
+    }
+  }
